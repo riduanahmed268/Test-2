@@ -16,8 +16,8 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
-https://www.youtube.com/@Riduanahmed69
+var youtube_channel_link = "YouTube channel link";https://www.youtube.com/@Riduanahmed69
+
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================

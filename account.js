@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "RIDUAN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -17,10 +17,10 @@ var telegram_group_link = "telegram group link";
 // YOUTUBE CHANNEL LINK
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
-
+https://www.youtube.com/@Riduanahmed69
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
+var notification_text = `সবথেকে বেসি দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
 অর্ডার করুন নিশ্চিন্তে ♥️`;
